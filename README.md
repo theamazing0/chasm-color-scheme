@@ -1,2 +1,1 @@
-# chasm-color-scheme
-My Custom Color Scheme
+# Chasm Color Scheme
